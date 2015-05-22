@@ -5,7 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
+title: "Korea Cloud Object Storage"
 header:
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
@@ -20,7 +20,7 @@ widget-2:
     video: '<a href="#" data-reveal-id="videoModal"><img src="http://koreacloudobjectstorage.github.io/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
 widget-3:
     title: "Download Theme"
-    url: 'https://github.com/Phlow/feeling-responsive'
+    url: 'http://koreacloudobjectstorage.github.io/info/'
     text: '<em>Feeling Responsive</em> is totally free and licensed under the MIT License. Make it your own and do with it what you want. Grab your copy or clone it at GitHub and start your website with it. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
     image: github-303x182.jpg
 ---
@@ -28,7 +28,7 @@ widget-3:
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/xgj9BA6qfIs" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
