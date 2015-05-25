@@ -9,9 +9,9 @@ title: "Korea Cloud Object Storage"
 header:
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
-    title: "Blog & Portfolio"
-    url: 'http://koreacloudobjectstorage.github.io/blog/'
-    text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts!'
+    title: "Openstack Swift 구축"
+    url: '/blog/'
+    text: 'Openstack Swift와 운영도구들을 설치하는 방법을 알려드립니다.'
     image: unsplash_9-302x182.jpg
 widget-2:
     title: "Why use this theme?"
